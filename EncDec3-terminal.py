@@ -165,6 +165,3 @@ if __name__ == "__main__":
     main()
 
 
-""" to run trough terminal:
-    python {your_script_name}.py
-"""
