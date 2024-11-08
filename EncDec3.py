@@ -1,5 +1,5 @@
-# this version can only work on PC
-""" i need to do these :
+
+""" i need to make :
 
 QR Code Support: Generate and scan QR codes for quick sharing of encrypted messages between devices."""
 
