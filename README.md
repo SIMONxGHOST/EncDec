@@ -4,29 +4,6 @@
 
 Available as both a responsive desktop interface and an enhanced web application.
 
----
-
-## 📑 Table of Contents
-
-* [Overview](https://www.google.com/search?q=%23-overview)
-* [Key Features](https://www.google.com/search?q=%23-key-features)
-* [Cryptographic Specifications](https://www.google.com/search?q=%23-cryptographic-specifications)
-* [Security Profiles & Key Tiers](https://www.google.com/search?q=%23-security-profiles--key-tiers)
-* [Envelope & Container Specifications](https://www.google.com/search?q=%23-envelope--container-specifications)
-* [Installation & Setup](https://www.google.com/search?q=%23-installation--setup)
-* [Usage Guide](https://www.google.com/search?q=%23-usage-guide)
-* [1. Text Encryption & Decryption](https://www.google.com/search?q=%231-text-encryption--decryption)
-* [2. File Security Hub](https://www.google.com/search?q=%232-file-security-hub)
-* [3. QR Code Suite](https://www.google.com/search?q=%233-qr-code-suite)
-* [4. Password Entropy & Generator](https://www.google.com/search?q=%234-password-entropy--generator)
-
-
-* [Repository Structure](https://www.google.com/search?q=%23-repository-structure)
-* [Security Considerations](https://www.google.com/search?q=%23-security-considerations)
-* [License](https://www.google.com/search?q=%23-license)
-
----
-
 ## 🔒 Overview
 
 EncDec provides end-to-end symmetric encryption powered by standard cryptographic primitives. It utilizes **Fernet (AES-128-CBC with HMAC-SHA256 authentication)** combined with **PBKDF2-HMAC-SHA256** key derivation, offering configurable iteration counts (100k up to 2.0M) and salt lengths (16 to 256 bytes).
