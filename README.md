@@ -1,4 +1,4 @@
-# EncDec Pro — Encryption, Decryption, File Security & QR Suite
+# EncDec — Encryption, Decryption, File Security & QR Suite
 
 **EncDec** is a cryptography and file security suite designed for authenticated text encryption, binary file protection, compressed QR code generation/scanning, and real-time password entropy analysis.
 
@@ -165,8 +165,8 @@ python3 EncDec5.py
 EncDec/
 ├── EncDec5.py          # Main application source code
 ├── README.md           # Project documentation and specifications
-├── requirements.txt    # Python package dependencies
-└── LICENSE             # Open-source license file
+└── requirements.txt    # Python package dependencies
+
 
 ```
 
@@ -182,4 +182,4 @@ EncDec/
 
 ## 📄 License
 
-This project is open-source.
+This project is open-source as it can gets.
