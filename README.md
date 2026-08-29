@@ -182,4 +182,4 @@ EncDec/
 
 ## 📄 License
 
-This project is open-source as it can gets.
+This project is open-source as it can get.
