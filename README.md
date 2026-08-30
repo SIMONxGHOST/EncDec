@@ -106,7 +106,7 @@ Double-click or open `encdec_standalone.html` in Chrome, Firefox, Edge, or Safar
 ---
 
 ## 📱 Android Studio Integration
-The repository includes a ready-to-build Android Studio project in `EncDec_Android_Studio_Project.zip`. Simply open it in Android Studio and build the APK.
+The repository includes a ready-to-build Android Studio project. Simply open it in Android Studio and build the APK.
 
 ---
 
