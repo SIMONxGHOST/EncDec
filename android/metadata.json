@@ -1,0 +1,6 @@
+{
+  "name": "EncDec Pro",
+  "description": "EncDec Studio Pro — Military-grade AES-256-GCM AEAD encryption, Memory-Hard Scrypt multi-tier key derivation, file security vault, and QR suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
