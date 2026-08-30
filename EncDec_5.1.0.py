@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-EncDec Pro (v5.0.0) — Military-Grade Encryption, Decryption, File Vault & QR Suite
+EncDec Pro (v5.1.0) — Military-Grade Encryption, Decryption, File Vault & QR Suite
 ==================================================================================
 A secure, responsive desktop encryption application built with Python, Tkinter,
 AES-256-GCM AEAD, Memory-Hard KDF (Scrypt / Argon2id), 2FA Keyfile support,
