@@ -62,8 +62,8 @@
 
 ### 1. Requirements & Setup
 ```bash
-git clone https://github.com/your-username/EncDec-Studio-Pro.git
-cd EncDec-Studio-Pro
+git clone https://github.com/SIMONxGHOST/EncDec-Pro
+cd EncDec-Pro
 pip install -r requirements.txt
 ```
 
